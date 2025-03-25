@@ -13,13 +13,13 @@
 
 ## API 명세서
 
->  [API 명세서 보기](./api.png)
+>  [API 명세서 보기](docs/api.png)
 
 ---
 
 ## ERD
 
->  [ERD 보기](./ERD.png)
+>  [ERD 보기](docs/ERD.png)
 
 ---
 
